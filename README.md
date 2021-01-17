@@ -1,5 +1,5 @@
-# the-sparks-foundation
-Sparks Foundation Internship Project : Basic Banking System  
+# The Sparks Foundation
+Sparks Foundation Internship Project Task 1: Basic Banking System  
 A Web Application used to transfer money between multiple users (Project contains 10 dummy users). A dummy user can also be created.  
 
 Stack used - 
